@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+    cursor: cell;
+}
+.photo{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
